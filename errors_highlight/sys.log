@@ -1,0 +1,201 @@
+July 31 00:06:21 atharva kernel[96041]: WARN Failed to start network connection
+July 31 00:09:53 atharva updater[46711]: WARN Computer needs to be turned off and on again
+July 31 00:12:36 atharva kernel[48462]: INFO Successfully connected
+July 31 00:13:52 atharva updater[43530]: ERROR Error running Python2.exe: Segmentation Fault (core dumped)
+July 31 00:16:13 atharva NetworkManager[63902]: WARN Failed to start application install
+July 31 00:26:45 atharva CRON[83063]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 00:27:56 atharva cacheclient[75746]: WARN PC Load Letter
+July 31 00:33:31 atharva system[25588]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 00:36:55 atharva updater[73786]: WARN Packet loss
+July 31 00:37:38 atharva dhcpclient[87602]: INFO Googling the answer
+July 31 00:37:48 atharva utility[21449]: ERROR The cake is a lie!
+July 31 00:44:50 atharva kernel[63793]: ERROR Failed process [13966]
+July 31 00:45:23 atharva cacheclient[55644]: ERROR Unable to download more RAM
+July 31 00:51:23 atharva cacheclient[85917]: ERROR Failed process [13966]
+July 31 01:06:51 atharva cacheclient[47853]: WARN Computer needs to be turned off and on again
+July 31 01:07:17 atharva system[78132]: INFO Packets sent successfully
+July 31 01:19:34 atharva CRON[94028]: WARN Failed to start network connection
+July 31 01:24:05 atharva utility[14905]: INFO Healthy resource usage
+July 31 01:29:04 atharva kernel[57436]: INFO Generating Logs
+July 31 01:36:27 atharva process[81163]: ERROR Unable to download more RAM
+July 31 01:40:38 atharva kernel[35287]: ERROR ID: 10t
+July 31 01:42:02 atharva jam_tag=psim[27947]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 01:42:28 atharva kernel[16004]: WARN Computer needs to be turned off and on again
+July 31 01:45:14 atharva cacheclient[28721]: INFO Googling the answer
+July 31 02:01:20 atharva NetworkManager[55118]: ERROR Unable to perform package upgrade
+July 31 02:12:54 atharva kernel[30641]: WARN Low on memory
+July 31 02:23:37 atharva utility[37367]: INFO Starting sync
+July 31 02:25:52 atharva system[41921]: WARN Failed to start CPU thread[39016]
+July 31 02:34:37 atharva kernel[32280]: INFO Loading...
+July 31 02:36:44 atharva NetworkManager[90289]: WARN Failed to start CPU thread[39016]
+July 31 02:39:01 atharva CRON[89330]: ERROR Unable to perform package upgrade
+July 31 02:45:39 atharva utility[57387]: INFO Access permitted
+July 31 02:58:44 atharva process[44707]: WARN Computer needs to be turned off and on again
+July 31 02:59:35 atharva system[55024]: WARN Packet loss
+July 31 03:09:30 atharva kernel[40705]: ERROR The cake is a lie!
+July 31 03:23:16 atharva cacheclient[57185]: INFO Checking process [16121]
+July 31 03:26:56 atharva cacheclient[90154]: INFO Healthy resource usage
+July 31 03:28:52 atharva CRON[55441]: INFO Loading...
+July 31 03:29:34 atharva dhcpclient[69232]: ERROR Unable to download more RAM
+July 31 03:34:41 atharva NetworkManager[14120]: ERROR 404 error not found
+July 31 03:36:26 atharva dhcpclient[79731]: ERROR The cake is a lie!
+July 31 03:38:24 atharva CRON[92141]: INFO Access permitted
+July 31 03:40:00 atharva dhcpclient[40114]: INFO Starting sync
+July 31 03:42:45 atharva utility[53726]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 03:47:07 atharva NetworkManager[63805]: WARN Please reboot user
+July 31 04:09:16 atharva CRON[52593]: WARN PC Load Letter
+July 31 04:11:32 atharva CRON[51253]: ERROR: Failed to start CRON job due to script syntax error. Inform the CRON job owner!
+July 31 04:11:32 atharva jam_tag=psim[84082]: ERROR ID: 10t
+July 31 04:12:05 atharva utility[63418]: INFO Successfully connected
+July 31 04:14:22 atharva utility[53225]: ERROR I am error
+July 31 04:31:00 atharva NetworkManager[23060]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 04:36:49 atharva dhcpclient[89091]: ERROR Failed process [13966]
+July 31 04:37:34 atharva cacheclient[63496]: ERROR Sorting a list
+July 31 04:45:37 atharva CRON[78322]: INFO Checking process [16121]
+July 31 04:51:20 atharva kernel[66473]: WARN System overheating
+July 31 05:00:28 atharva NetworkManager[76363]: ERROR The cake is a lie!
+July 31 05:10:52 atharva jam_tag=psim[26712]: ERROR Process failed
+July 31 05:14:16 atharva utility[91499]: ERROR Sorting a list
+July 31 05:15:02 atharva system[76042]: WARN System overheating
+July 31 05:18:19 atharva kernel[59870]: INFO Starting sync
+July 31 05:27:34 atharva NetworkManager[67593]: INFO Writing Logs
+July 31 05:32:16 janhavi process[21939]: ERROR Failed process [13966]
+July 31 05:34:23 janhavi NetworkManager[96505]: INFO Plenty of disk space left
+July 31 05:36:31 janhavi utility[15156]: INFO Packets sent successfully
+July 31 05:43:29 janhavi dhcpclient[35484]: ERROR Encapsulating packets
+July 31 05:44:07 janhavi cacheclient[97637]: ERROR Operation completed successfully
+July 31 05:58:25 janhavi process[99181]: ERROR Process failed
+July 31 05:59:27 janhavi utility[74219]: WARN Failed to start CPU thread[39016]
+July 31 06:20:09 janhavi jam_tag=psim[34744]: INFO Loading...
+July 31 06:31:02 janhavi jam_tag=psim[40033]: ERROR Syntax issue
+July 31 06:38:58 janhavi CRON[31832]: INFO Memory allocated
+July 31 06:38:58 janhavi updater[10115]: ERROR Unable to perform package upgrade
+July 31 06:43:49 janhavi jam_tag=psim[59857]: INFO Successfully connected
+July 31 06:46:06 janhavi CRON[12372]: ERROR Unable to perform package upgrade
+July 31 06:48:38 janhavi NetworkManager[95699]: WARN Failed to start network connection
+July 31 07:01:16 janhavi system[39619]: INFO Plenty of disk space left
+July 31 07:08:07 janhavi jam_tag=psim[39984]: INFO Memory allocated
+July 31 07:08:10 janhavi cacheclient[17912]: INFO Generating Logs
+July 31 07:10:12 janhavi process[60665]: INFO Failed to start process[85253]
+July 31 07:11:12 janhavi dhcpclient[98633]: WARN System overheating
+July 31 07:24:38 janhavi jam_tag=psim[83107]: ERROR ID: 10t
+July 31 07:34:37 janhavi process[22428]: INFO Failed to start process[85253]
+July 31 07:34:52 janhavi updater[42267]: ERROR I am error
+July 31 07:35:27 janhavi jam_tag=psim[96969]: INFO Loading...
+July 31 07:37:13 janhavi updater[11461]: ERROR Unable to perform package upgrade
+July 31 07:46:27 janhavi jam_tag=psim[21363]: INFO Packets sent successfully
+July 31 07:50:05 janhavi system[68973]: INFO Compiling code
+July 31 08:02:17 janhavi kernel[84055]: INFO Checking process [16121]
+July 31 08:14:45 janhavi process[84233]: ERROR Out of ink
+July 31 08:21:11 janhavi system[78476]: ERROR Error running Python2.exe: Segmentation Fault (core dumped)
+July 31 08:29:59 janhavi utility[73121]: ERROR I am error
+July 31 08:33:24 janhavi system[55880]: INFO Defragmenting hard drive
+July 31 08:39:13 janhavi utility[78233]: ERROR The cake is a lie!
+July 31 08:49:55 janhavi kernel[88866]: INFO Starting sync
+July 31 08:55:07 janhavi system[24562]: ERROR Process failed
+July 31 08:56:17 janhavi jam_tag=psim[67538]: WARN Packet loss
+July 31 09:01:06 janhavi NetworkManager[89092]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 09:26:46 janhavi utility[53969]: WARN Low on memory
+July 31 09:29:37 janhavi CRON[89099]: INFO Packets sent successfully
+July 31 09:37:31 janhavi updater[46513]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 09:45:20 janhavi utility[95200]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 09:47:30 mihika system[61238]: ERROR I am error
+July 31 09:51:01 mihika dhcpclient[83799]: WARN Packet loss
+July 31 09:54:04 mihika system[18585]: ERROR 404 error not found
+July 31 09:54:06 mihika updater[84188]: ERROR 404 error not found
+July 31 09:57:08 mihika dhcpclient[26102]: WARN Failed to start application install
+July 31 10:21:57 mihika NetworkManager[62856]: WARN Failed to start network connection
+July 31 10:25:03 mihika utility[89273]: ERROR lp0 on fire
+July 31 10:26:12 mihika utility[23086]: INFO Access permitted
+July 31 10:30:37 mihika system[48235]: WARN Please reboot user
+July 31 10:41:32 mihika NetworkManager[70251]: ERROR Sorting a list
+July 31 10:53:36 mihika system[78903]: ERROR Encapsulating packets
+July 31 10:56:12 mihika jam_tag=psim[97572]: WARN Failed to start network connection
+July 31 10:56:29 mihika updater[55938]: ERROR Unable to download more RAM
+July 31 10:58:29 mihika utility[78692]: INFO Writing Logs
+July 31 11:05:09 mihika cacheclient[34385]: WARN System overheating
+July 31 11:14:39 mihika process[22102]: WARN System overheating
+July 31 11:18:34 mihika process[32468]: ERROR 418: I'm a teapot
+July 31 11:19:56 mihika system[15816]: ERROR I am error
+July 31 11:20:11 mihika kernel[77339]: ERROR Out of ink
+July 31 11:25:08 mihika utility[65264]: INFO Checking process [16121]
+July 31 11:27:52 mihika CRON[65812]: ERROR ID: 10t
+July 31 11:43:32 mihika CRON[72993]: WARN Failed to start network connection
+July 31 11:50:34 mihika CRON[51748]: ERROR ID: 10t
+July 31 12:00:29 mihika NetworkManager[96959]: ERROR Operation completed successfully
+July 31 12:04:22 mihika updater[51112]: ERROR lp0 on fire
+July 31 12:07:01 mihika updater[47209]: ERROR 418: I'm a teapot
+July 31 12:15:19 mihika updater[76427]: WARN Low on memory
+July 31 12:21:53 mihika system[33216]: WARN PC Load Letter
+July 31 12:42:41 mihika system[38483]: ERROR AssertionError 'False' is not 'True'
+July 31 12:47:53 mihika dhcpclient[17238]: WARN PC Load Letter
+July 31 12:48:04 mihika system[68448]: ERROR lp0 on fire
+July 31 12:54:55 mihika updater[93309]: WARN Please send help I am stuck inside the internet
+July 31 13:00:34 mihika system[62593]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 13:04:58 mihika cacheclient[63249]: INFO Access permitted
+July 31 13:08:06 mihika cacheclient[32689]: INFO Loading...
+July 31 13:14:54 mihika system[84324]: ERROR 404 error not found
+July 31 13:23:12 mihika system[56046]: ERROR Unable to perform package upgrade
+July 31 13:36:17 mihika CRON[53567]: ERROR You seriously weren't expecting to find anything useful in here, were you?
+July 31 13:39:39 mihika process[94615]: ERROR AssertionError 'False' is not 'True'
+July 31 14:34:36 mihika dhcpclient[37575]: ERROR 404 error not found
+July 31 14:44:34 mihika kernel[34400]: INFO Successfully connected
+July 31 15:18:00 mihika process[56145]: WARN Please send help I am stuck inside the internet
+July 31 15:21:55 mihika CRON[38897]: INFO Failed to start process[85253]
+July 31 15:23:54 mihika utility[20760]: ERROR lp0 on fire
+July 31 15:45:53 mihika jam_tag=psim[18544]: INFO Hello world
+July 31 15:51:37 mihika kernel[79314]: WARN Failed to start CPU thread[39016]
+July 31 16:02:05 mihika cacheclient[80348]: INFO Starting sync
+July 31 16:07:01 mihika process[11843]: ERROR Process failed
+July 31 16:20:37 mihika dhcpclient[36371]: ERROR Unable to download more RAM
+July 31 16:24:34 mihika updater[83956]: INFO Access permitted
+July 31 16:30:59 mihika updater[61327]: INFO Starting sync
+July 31 16:36:57 mihika system[27219]: ERROR Process failed
+July 31 16:39:10 mihika jam_tag=psim[76787]: INFO Checking process [16121]
+July 31 16:43:19 amit utility[31859]: ERROR Process failed
+July 31 16:45:49 amit process[29993]: WARN Failed to start network connection
+July 31 17:13:27 amit system[77845]: WARN Failed to start CPU thread[39016]
+July 31 17:25:11 amit jam_tag=psim[70693]: ERROR Syntax issue
+July 31 17:55:16 amit jam_tag=psim[58396]: ERROR 404 error not found
+July 31 17:55:32 amit system[56762]: WARN Low on memory
+July 31 18:03:28 amit process[79703]: ERROR lp0 on fire
+July 31 18:04:46 amit updater[79077]: ERROR Operation completed successfully
+July 31 18:51:04 amit cacheclient[83250]: ERROR Sorting a list
+July 31 18:51:46 amit cacheclient[57597]: INFO Access permitted
+July 31 18:56:23 amit kernel[87834]: WARN Failed to start network connection
+July 31 19:04:43 amit kernel[36465]: WARN Packet loss
+July 31 19:24:44 amit cacheclient[47526]: INFO Googling the answer
+July 31 19:44:47 amit system[50340]: ERROR lp0 on fire
+July 31 19:48:46 amit CRON[88206]: ERROR Failed process [13966]
+July 31 19:51:07 amit NetworkManager[38455]: INFO Access permitted
+July 31 19:55:34 amit jam_tag=psim[21289]: INFO Plenty of disk space left
+July 31 19:56:47 amit CRON[61924]: ERROR Out of yellow ink, specifically, even though you want grayscale
+July 31 20:02:26 amit cacheclient[50070]: ERROR Encapsulating packets
+July 31 20:05:36 amit updater[23489]: INFO Healthy resource usage
+July 31 20:21:06 amit utility[67718]: INFO Defragmenting hard drive
+July 31 20:38:05 amit kernel[30846]: ERROR AssertionError 'False' is not 'True'
+July 31 20:42:44 amit CRON[95019]: INFO Access permitted
+July 31 20:48:06 amit kernel[51099]: WARN PC Load Letter
+July 31 20:57:02 amit CRON[23996]: INFO Googling the answer
+July 31 21:05:47 amit utility[67348]: ERROR The cake is a lie!
+July 31 21:06:46 amit kernel[80105]: ERROR lp0 on fire
+July 31 21:26:11 amit process[18312]: WARN Computer needs to be turned off and on again
+July 31 21:28:55 amit jam_tag=psim[89637]: INFO Packets sent successfully
+July 31 21:48:30 amit kernel[33330]: ERROR Syntax issue
+July 31 22:05:31 amit process[37921]: ERROR Process failed
+July 31 22:07:54 amit cacheclient[12017]: ERROR Process failed
+July 31 22:14:37 amit utility[78832]: INFO Healthy resource usage
+July 31 22:22:34 amit updater[78750]: ERROR ID: 10t
+July 31 22:41:00 amit jam_tag=psim[40956]: ERROR The cake is a lie!
+July 31 22:42:51 amit NetworkManager[28895]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 23:15:22 amit jam_tag=psim[75013]: ERROR Failed process [13966]
+July 31 23:17:05 amit system[88316]: ERROR 418: I'm a teapot
+July 31 23:20:09 amit system[42918]: ERROR Out of ink
+July 31 23:28:49 amit utility[40452]: INFO Checking process [16121]
+July 31 23:29:25 amit utility[22941]: WARN Failed to start CPU thread[39016]
+July 31 23:30:46 amit process[99294]: WARN Computer needs to be turned off and on again
+July 31 23:35:49 amit dhcpclient[10726]: INFO Googling the answer
+July 31 23:36:29 amit updater[86053]: ERROR AssertionError 'False' is not 'True'
+July 31 23:40:05 amit utility[88068]: INFO Generating Logs
+July 31 23:48:17 amit CRON[28813]: WARN Please send help I am stuck inside the internet
+July 31 23:53:58 amit CRON[59985]: INFO Successfully connected
